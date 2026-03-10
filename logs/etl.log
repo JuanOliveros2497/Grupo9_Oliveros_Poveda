@@ -1,0 +1,37 @@
+2026-02-26 07:26:42,897 - INFO - Iniciando extracción de países...
+2026-02-26 07:26:43,853 - INFO - ✅ Se extrajeron 250 países correctamente
+2026-02-26 07:26:43,854 - ERROR - ❌ Error procesando datos: list index out of range
+2026-02-26 07:26:43,854 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-02-26 07:26:43,859 - INFO - 📁 Datos guardados en data/paises.csv
+2026-02-26 07:29:10,169 - INFO - Iniciando extracción de países...
+2026-02-26 07:29:11,150 - INFO - ✅ Se extrajeron 250 países correctamente
+2026-02-26 07:29:11,154 - INFO - ✅ Procesados 250 países
+2026-02-26 07:29:11,160 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-02-26 07:29:11,168 - INFO - 📁 Datos guardados en data/paises.csv
+2026-03-10 14:39:55,067 - INFO - Iniciando extracción de países...
+2026-03-10 14:39:55,760 - INFO - ✅ Se extrajeron 250 países correctamente
+2026-03-10 14:39:55,761 - INFO - ✅ Procesados 250 países
+2026-03-10 14:39:55,763 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-03-10 14:39:55,767 - INFO - 📁 Datos guardados en data/paises.csv
+2026-03-10 14:51:50,188 - INFO - Iniciando extracción de países...
+2026-03-10 14:51:50,859 - INFO - ✅ Se extrajeron 250 países correctamente
+2026-03-10 14:51:50,861 - INFO - ✅ Procesados 250 países
+2026-03-10 14:51:50,864 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-03-10 14:51:50,868 - INFO - 📁 Datos guardados en data/paises.csv
+2026-03-10 15:05:39,197 - INFO - Iniciando extracción de países...
+2026-03-10 15:05:39,777 - INFO - ✅ Se extrajeron 250 países correctamente
+2026-03-10 15:05:39,779 - INFO - ✅ Procesados 250 países
+2026-03-10 15:05:39,780 - INFO - 📁 Datos guardados en data/paises_raw.json
+2026-03-10 15:05:39,783 - INFO - 📁 Datos guardados en data/paises.csv
+2026-03-10 15:09:15,809 - INFO - 🚀 Iniciando ETL...
+2026-03-10 15:09:15,810 - INFO - 🌍 Conectando con la API...
+2026-03-10 15:09:16,493 - INFO - ✅ 250 países extraídos correctamente
+2026-03-10 15:09:16,494 - INFO - ✅ 250 países procesados
+2026-03-10 15:09:16,500 - INFO - 📁 JSON guardado en data/paises_raw.json
+2026-03-10 15:09:16,502 - INFO - 📁 CSV guardado en data/paises.csv
+2026-03-10 15:12:08,809 - INFO - 🚀 Iniciando ETL...
+2026-03-10 15:12:08,810 - INFO - 🌍 Conectando con la API...
+2026-03-10 15:12:09,534 - INFO - ✅ 250 países extraídos correctamente
+2026-03-10 15:12:09,536 - INFO - ✅ 250 países procesados
+2026-03-10 15:12:09,541 - INFO - 📁 JSON guardado en data/paises_raw.json
+2026-03-10 15:12:09,547 - INFO - 📁 CSV guardado en data/paises.csv
