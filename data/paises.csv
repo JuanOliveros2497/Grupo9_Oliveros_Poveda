@@ -1,251 +1,251 @@
 pais,capital,region,subregion,poblacion,area,moneda,idioma,fecha_extraccion
-Zimbabwe,Harare,Africa,Southern Africa,17073087,390757.0,ZWL,Chibarwe,2026-03-11T10:43:19.233121
-Kiribati,South Tarawa,Oceania,Micronesia,120740,811.0,AUD,English,2026-03-11T10:43:19.233133
-Ghana,Accra,Africa,Western Africa,33742380,238533.0,GHS,English,2026-03-11T10:43:19.233136
-North Korea,Pyongyang,Asia,Eastern Asia,25950000,120538.0,KPW,Korean,2026-03-11T10:43:19.233138
-Spain,Madrid,Europe,Southern Europe,49315949,505992.0,EUR,Spanish,2026-03-11T10:43:19.233139
-Jordan,Amman,Asia,Western Asia,11734000,89342.0,JOD,Arabic,2026-03-11T10:43:19.233141
-San Marino,City of San Marino,Europe,Southern Europe,34132,61.0,EUR,Italian,2026-03-11T10:43:19.233143
-Ivory Coast,Yamoussoukro,Africa,Western Africa,31719275,322463.0,XOF,French,2026-03-11T10:43:19.233144
-Brazil,Brasília,Americas,South America,213421037,8515767.0,BRL,Portuguese,2026-03-11T10:43:19.233146
-Colombia,Bogotá,Americas,South America,53057212,1141748.0,COP,Spanish,2026-03-11T10:43:19.233148
-Heard Island and McDonald Islands,N/A,Antarctic,,0,412.0,N/A,English,2026-03-11T10:43:19.233149
-Dominica,Roseau,Americas,Caribbean,67408,751.0,XCD,English,2026-03-11T10:43:19.233153
-Djibouti,Djibouti,Africa,Eastern Africa,1066809,23200.0,DJF,Arabic,2026-03-11T10:43:19.233155
-Slovenia,Ljubljana,Europe,Central Europe,2130638,20273.0,EUR,Slovene,2026-03-11T10:43:19.233157
-Anguilla,The Valley,Americas,Caribbean,16010,91.0,XCD,English,2026-03-11T10:43:19.233158
-North Macedonia,Skopje,Europe,Southeast Europe,1822612,25713.0,MKD,Macedonian,2026-03-11T10:43:19.233160
-Solomon Islands,Honiara,Oceania,Melanesia,750325,28896.0,SBD,English,2026-03-11T10:43:19.233162
-Chad,N'Djamena,Africa,Middle Africa,19340757,1284000.0,XAF,Arabic,2026-03-11T10:43:19.233163
-Burundi,Gitega,Africa,Eastern Africa,12332788,27834.0,BIF,French,2026-03-11T10:43:19.233165
-Italy,Rome,Europe,Southern Europe,58927633,301336.0,EUR,Italian,2026-03-11T10:43:19.233167
-Ethiopia,Addis Ababa,Africa,Eastern Africa,111652998,1104300.0,ETB,Amharic,2026-03-11T10:43:19.233170
-Vietnam,Hanoi,Asia,South-Eastern Asia,101343800,331212.0,VND,Vietnamese,2026-03-11T10:43:19.233172
-Togo,Lomé,Africa,Western Africa,8095498,56785.0,XOF,French,2026-03-11T10:43:19.233192
-Martinique,Fort-de-France,Americas,Caribbean,349925,1128.0,EUR,French,2026-03-11T10:43:19.233194
-Poland,Warsaw,Europe,Central Europe,37392000,312679.0,PLN,Polish,2026-03-11T10:43:19.233196
-Portugal,Lisbon,Europe,Southern Europe,10749635,92090.0,EUR,Portuguese,2026-03-11T10:43:19.233198
-Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,1692,135.0,AUD,English,2026-03-11T10:43:19.233200
-Israel,Jerusalem,Asia,Western Asia,10134800,21937.0,ILS,Arabic,2026-03-11T10:43:19.233202
-Argentina,Buenos Aires,Americas,South America,46735004,2780400.0,ARS,Guaraní,2026-03-11T10:43:19.233203
-Afghanistan,Kabul,Asia,Southern Asia,43844000,652230.0,AFN,Dari,2026-03-11T10:43:19.233205
-Papua New Guinea,Port Moresby,Oceania,Melanesia,11781559,462840.0,PGK,English,2026-03-11T10:43:19.233207
-New Zealand,Wellington,Oceania,Australia and New Zealand,5324700,268838.0,NZD,English,2026-03-11T10:43:19.233208
-El Salvador,San Salvador,Americas,Central America,6029976,21041.0,USD,Spanish,2026-03-11T10:43:19.233210
-Czechia,Prague,Europe,Central Europe,10882341,78865.0,CZK,Czech,2026-03-11T10:43:19.233212
-Cameroon,Yaoundé,Africa,Middle Africa,29442327,475442.0,XAF,English,2026-03-11T10:43:19.233216
-Yemen,Sana'a,Asia,Western Asia,32684503,527968.0,YER,Arabic,2026-03-11T10:43:19.233218
-Panama,Panama City,Americas,Central America,4064780,75417.0,PAB,Spanish,2026-03-11T10:43:19.233220
-Timor-Leste,Dili,Asia,South-Eastern Asia,1391221,14874.0,USD,Portuguese,2026-03-11T10:43:19.233255
-Cuba,Havana,Americas,Caribbean,9748007,109884.0,CUC,Spanish,2026-03-11T10:43:19.233258
-Russia,Moscow,Europe,Eastern Europe,146028325,17098246.0,RUB,Russian,2026-03-11T10:43:19.233260
-Antigua and Barbuda,Saint John's,Americas,Caribbean,103603,442.0,XCD,English,2026-03-11T10:43:19.233262
-Saint Barthélemy,Gustavia,Americas,Caribbean,10562,21.0,EUR,French,2026-03-11T10:43:19.233264
-Bolivia,Sucre,Americas,South America,11365333,1098581.0,BOB,Aymara,2026-03-11T10:43:19.233266
-Australia,Canberra,Oceania,Australia and New Zealand,27536874,7692024.0,AUD,English,2026-03-11T10:43:19.233268
-United States Minor Outlying Islands,Washington DC,Americas,North America,0,34.2,USD,English,2026-03-11T10:43:19.233269
-Fiji,Suva,Oceania,Melanesia,900869,18272.0,FJD,English,2026-03-11T10:43:19.233271
-Myanmar,Naypyidaw,Asia,South-Eastern Asia,51316756,676578.0,MMK,Burmese,2026-03-11T10:43:19.233272
-São Tomé and Príncipe,São Tomé,Africa,Middle Africa,209607,964.0,STN,Portuguese,2026-03-11T10:43:19.233274
-Madagascar,Antananarivo,Africa,Eastern Africa,31727042,587041.0,MGA,French,2026-03-11T10:43:19.233276
-Tuvalu,Funafuti,Oceania,Polynesia,10643,26.0,AUD,English,2026-03-11T10:43:19.233278
-Guernsey,St. Peter Port,Europe,Northern Europe,64781,78.0,GBP,English,2026-03-11T10:43:19.233279
-Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,593,14.0,AUD,English,2026-03-11T10:43:19.233282
-Hungary,Budapest,Europe,Central Europe,9539502,93028.0,HUF,Hungarian,2026-03-11T10:43:19.233284
-Egypt,Cairo,Africa,Northern Africa,107271260,1002450.0,EGP,Arabic,2026-03-11T10:43:19.233285
-Kyrgyzstan,Bishkek,Asia,Central Asia,7281800,199951.0,KGS,Kyrgyz,2026-03-11T10:43:19.233287
-Indonesia,Jakarta,Asia,South-Eastern Asia,284438782,1904569.0,IDR,Indonesian,2026-03-11T10:43:19.233289
-Tunisia,Tunis,Africa,Northern Africa,11972169,163610.0,TND,Arabic,2026-03-11T10:43:19.233290
-American Samoa,Pago Pago,Oceania,Polynesia,49710,199.0,USD,English,2026-03-11T10:43:19.233292
-Oman,Muscat,Asia,Western Asia,5343630,309500.0,OMR,Arabic,2026-03-11T10:43:19.233294
-French Polynesia,Papeetē,Oceania,Polynesia,279500,4167.0,XPF,French,2026-03-11T10:43:19.233296
-United States,"Washington, D.C.",Americas,North America,340110988,9525067.0,USD,English,2026-03-11T10:43:19.233297
-Falkland Islands,Stanley,Americas,South America,3662,12173.0,FKP,English,2026-03-11T10:43:19.233299
-Saint Martin,Marigot,Americas,Caribbean,31496,53.0,EUR,French,2026-03-11T10:43:19.233300
-Suriname,Paramaribo,Americas,South America,616500,163820.0,SRD,Dutch,2026-03-11T10:43:19.233302
-Azerbaijan,Baku,Asia,Western Asia,10241722,86600.0,AZN,Azerbaijani,2026-03-11T10:43:19.233305
-Netherlands,Amsterdam,Europe,Western Europe,18100436,41865.0,EUR,Dutch,2026-03-11T10:43:19.233307
-Palestine,Ramallah,Asia,Western Asia,5483450,6220.0,EGP,Arabic,2026-03-11T10:43:19.233308
-Slovakia,Bratislava,Europe,Central Europe,5413813,49037.0,EUR,Slovak,2026-03-11T10:43:19.233310
-Uganda,Kampala,Africa,Eastern Africa,45905417,241550.0,UGX,English,2026-03-11T10:43:19.233312
-Cayman Islands,George Town,Americas,Caribbean,84738,264.0,KYD,English,2026-03-11T10:43:19.233314
-Saint Lucia,Castries,Americas,Caribbean,184100,616.0,XCD,English,2026-03-11T10:43:19.233318
-Libya,Tripoli,Africa,Northern Africa,7459000,1759540.0,LYD,Arabic,2026-03-11T10:43:19.233320
-Northern Mariana Islands,Saipan,Oceania,Micronesia,47329,464.0,USD,Carolinian,2026-03-11T10:43:19.233322
-Armenia,Yerevan,Asia,Western Asia,3076200,29743.0,AMD,Armenian,2026-03-11T10:43:19.233323
-Comoros,Moroni,Africa,Eastern Africa,919901,1862.0,KMF,Arabic,2026-03-11T10:43:19.233329
-Guyana,Georgetown,Americas,South America,772975,214969.0,GYD,English,2026-03-11T10:43:19.233331
-United Arab Emirates,Abu Dhabi,Asia,Western Asia,11294243,83600.0,AED,Arabic,2026-03-11T10:43:19.233332
-Turkey,Ankara,Asia,Western Asia,85664944,783562.0,TRY,Turkish,2026-03-11T10:43:19.233337
-Samoa,Apia,Oceania,Polynesia,205557,2842.0,WST,English,2026-03-11T10:43:19.233339
-Germany,Berlin,Europe,Western Europe,83491249,357114.0,EUR,German,2026-03-11T10:43:19.233341
-Gambia,Banjul,Africa,Western Africa,2422712,10689.0,GMD,English,2026-03-11T10:43:19.233342
-Mongolia,Ulan Bator,Asia,Eastern Asia,3544835,1564110.0,MNT,Mongolian,2026-03-11T10:43:19.233344
-Serbia,Belgrade,Europe,Southeast Europe,6567783,77589.0,RSD,Serbian,2026-03-11T10:43:19.233346
-China,Beijing,Asia,Eastern Asia,1408280000,9706961.0,CNY,Chinese,2026-03-11T10:43:19.233348
-Montenegro,Podgorica,Europe,Southeast Europe,623327,13812.0,EUR,Montenegrin,2026-03-11T10:43:19.233349
-Guam,Hagåtña,Oceania,Micronesia,153836,549.0,USD,Chamorro,2026-03-11T10:43:19.233351
-Cambodia,Phnom Penh,Asia,South-Eastern Asia,17577760,181035.0,KHR,Khmer,2026-03-11T10:43:19.233355
-Liechtenstein,Vaduz,Europe,Western Europe,40900,160.0,CHF,German,2026-03-11T10:43:19.233357
-Senegal,Dakar,Africa,Western Africa,18593258,196722.0,XOF,French,2026-03-11T10:43:19.233359
-United Kingdom,London,Europe,Northern Europe,69281437,244376.0,GBP,English,2026-03-11T10:43:19.233360
-Caribbean Netherlands,Kralendijk,Americas,Caribbean,31980,328.0,USD,English,2026-03-11T10:43:19.233363
-French Guiana,Cayenne,Americas,South America,292354,83534.0,EUR,French,2026-03-11T10:43:19.233364
-Burkina Faso,Ouagadougou,Africa,Western Africa,24070553,272967.0,XOF,French,2026-03-11T10:43:19.233366
-Qatar,Doha,Asia,Western Asia,3173024,11586.0,QAR,Arabic,2026-03-11T10:43:19.233368
-Ukraine,Kyiv,Europe,Eastern Europe,32862000,603550.0,UAH,Ukrainian,2026-03-11T10:43:19.233369
-Mexico,Mexico City,Americas,North America,130575786,1964375.0,MXN,Spanish,2026-03-11T10:43:19.233371
-Isle of Man,Douglas,Europe,Northern Europe,84530,572.0,GBP,English,2026-03-11T10:43:19.233373
-Antarctica,N/A,Antarctic,,1300,14000000.0,N/A,N/A,2026-03-11T10:43:19.233375
-South Georgia,King Edward Point,Antarctic,,0,3903.0,GBP,English,2026-03-11T10:43:19.233376
-Western Sahara,El Aaiún,Africa,Northern Africa,600904,266000.0,DZD,Berber,2026-03-11T10:43:19.233378
-Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,50828,948.0,USD,English,2026-03-11T10:43:19.233379
-Albania,Tirana,Europe,Southeast Europe,2363314,28748.0,ALL,Albanian,2026-03-11T10:43:19.233381
-Cyprus,Nicosia,Europe,Southern Europe,1442614,9251.0,EUR,Greek,2026-03-11T10:43:19.233383
-Guatemala,Guatemala City,Americas,Central America,18079810,108889.0,GTQ,Spanish,2026-03-11T10:43:19.233384
-Nauru,Yaren,Oceania,Micronesia,11680,21.0,AUD,English,2026-03-11T10:43:19.233387
-"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,5651,394.0,GBP,English,2026-03-11T10:43:19.233389
-Latvia,Riga,Europe,Northern Europe,1829000,64559.0,EUR,Latvian,2026-03-11T10:43:19.233390
-Cook Islands,Avarua,Oceania,Polynesia,15040,236.0,CKD,English,2026-03-11T10:43:19.233392
-Malta,Valletta,Europe,Southern Europe,574250,316.0,EUR,English,2026-03-11T10:43:19.233393
-Pitcairn Islands,Adamstown,Oceania,Polynesia,35,47.0,NZD,English,2026-03-11T10:43:19.233646
-South Korea,Seoul,Asia,Eastern Asia,51159889,100210.0,KRW,Korean,2026-03-11T10:43:19.233656
-New Caledonia,Nouméa,Oceania,Melanesia,264596,18575.0,XPF,French,2026-03-11T10:43:19.233659
-Mozambique,Maputo,Africa,Eastern Africa,34090466,801590.0,MZN,Portuguese,2026-03-11T10:43:19.233661
-Luxembourg,Luxembourg,Europe,Western Europe,681973,2586.0,EUR,German,2026-03-11T10:43:19.233662
-Ireland,Dublin,Europe,Northern Europe,5458600,70273.0,EUR,English,2026-03-11T10:43:19.233664
-Nigeria,Abuja,Africa,Western Africa,223800000,923768.0,NGN,English,2026-03-11T10:43:19.233666
-Bahamas,Nassau,Americas,Caribbean,398165,13943.0,BSD,English,2026-03-11T10:43:19.233668
-Marshall Islands,Majuro,Oceania,Micronesia,42418,181.0,USD,English,2026-03-11T10:43:19.233674
-Greece,Athens,Europe,Southern Europe,10400720,131990.0,EUR,Greek,2026-03-11T10:43:19.233677
-Maldives,Malé,Asia,Southern Asia,515132,300.0,MVR,Maldivian,2026-03-11T10:43:19.233679
-Niue,Alofi,Oceania,Polynesia,1681,260.0,NZD,English,2026-03-11T10:43:19.233681
-Syria,Damascus,Asia,Western Asia,25620000,185180.0,SYP,Arabic,2026-03-11T10:43:19.233684
-Ecuador,Quito,Americas,South America,18103660,276841.0,USD,Spanish,2026-03-11T10:43:19.233686
-Turkmenistan,Ashgabat,Asia,Central Asia,7057841,488100.0,TMT,Russian,2026-03-11T10:43:19.233687
-Wallis and Futuna,Mata-Utu,Oceania,Polynesia,11620,142.0,XPF,French,2026-03-11T10:43:19.233689
-Brunei,Bandar Seri Begawan,Asia,South-Eastern Asia,455500,5765.0,BND,Malay,2026-03-11T10:43:19.233691
-Uzbekistan,Tashkent,Asia,Central Asia,37859698,447400.0,UZS,Russian,2026-03-11T10:43:19.233692
-Bahrain,Manama,Asia,Western Asia,1594654,765.0,BHD,Arabic,2026-03-11T10:43:19.233694
-British Virgin Islands,Road Town,Americas,Caribbean,39471,151.0,USD,English,2026-03-11T10:43:19.233696
-Moldova,Chișinău,Europe,Eastern Europe,2749076,33847.0,MDL,Romanian,2026-03-11T10:43:19.233703
-Mauritius,Port Louis,Africa,Eastern Africa,1243741,2040.0,MUR,English,2026-03-11T10:43:19.233706
-Tonga,Nuku'alofa,Oceania,Polynesia,100179,747.0,TOP,English,2026-03-11T10:43:19.233708
-Seychelles,Victoria,Africa,Eastern Africa,122729,452.0,SCR,Seychellois Creole,2026-03-11T10:43:19.233710
-Angola,Luanda,Africa,Middle Africa,36170961,1246700.0,AOA,Portuguese,2026-03-11T10:43:19.233711
-Estonia,Tallinn,Europe,Northern Europe,1369995,45227.0,EUR,Estonian,2026-03-11T10:43:19.233713
-Bermuda,Hamilton,Americas,North America,64055,54.0,BMD,English,2026-03-11T10:43:19.233714
-Philippines,Manila,Asia,South-Eastern Asia,114123600,342353.0,PHP,English,2026-03-11T10:43:19.233716
-Vatican City,Vatican City,Europe,Southern Europe,882,0.49,EUR,Italian,2026-03-11T10:43:19.233717
-Venezuela,Caracas,Americas,South America,28517000,916445.0,VES,Spanish,2026-03-11T10:43:19.233718
-Barbados,Bridgetown,Americas,Caribbean,267800,430.0,BBD,English,2026-03-11T10:43:19.233732
-India,New Delhi,Asia,Southern Asia,1417492000,3287263.0,INR,English,2026-03-11T10:43:19.233734
-Mali,Bamako,Africa,Western Africa,22395489,1240192.0,XOF,French,2026-03-11T10:43:19.233735
-Norfolk Island,Kingston,Oceania,Australia and New Zealand,2188,36.0,AUD,English,2026-03-11T10:43:19.233737
-Belarus,Minsk,Europe,Eastern Europe,9109280,207600.0,BYN,Belarusian,2026-03-11T10:43:19.233740
-Saint Kitts and Nevis,Basseterre,Americas,Caribbean,51320,261.0,XCD,English,2026-03-11T10:43:19.233741
-Guadeloupe,Basse-Terre,Americas,Caribbean,378561,1628.0,EUR,French,2026-03-11T10:43:19.233743
-Lithuania,Vilnius,Europe,Northern Europe,2894886,65300.0,EUR,Lithuanian,2026-03-11T10:43:19.233745
-Montserrat,Plymouth,Americas,Caribbean,4386,102.0,XCD,English,2026-03-11T10:43:19.233747
-Niger,Niamey,Africa,Western Africa,26312034,1267000.0,XOF,French,2026-03-11T10:43:19.233748
-Equatorial Guinea,Ciudad de la Paz,Africa,Middle Africa,1668768,28051.0,XAF,French,2026-03-11T10:43:19.233750
-Iraq,Baghdad,Asia,Western Asia,46118793,438317.0,IQD,Arabic,2026-03-11T10:43:19.233752
-Mauritania,Nouakchott,Africa,Western Africa,4927532,1030700.0,MRU,Arabic,2026-03-11T10:43:19.233753
-Taiwan,Taipei,Asia,Eastern Asia,23317031,36197.0,TWD,Chinese,2026-03-11T10:43:19.233755
-Georgia,Tbilisi,Asia,Western Asia,4000921,69700.0,GEL,Georgian,2026-03-11T10:43:19.233757
-Puerto Rico,San Juan,Americas,Caribbean,3203295,8870.0,USD,English,2026-03-11T10:43:19.233758
-Paraguay,Asunción,Americas,South America,6109644,406752.0,PYG,Guaraní,2026-03-11T10:43:19.233760
-Sierra Leone,Freetown,Africa,Western Africa,9077691,71740.0,SLE,English,2026-03-11T10:43:19.233762
-Botswana,Gaborone,Africa,Southern Africa,2359609,582000.0,BWP,English,2026-03-11T10:43:19.233764
-Mayotte,Mamoudzou,Africa,Eastern Africa,320901,374.0,EUR,French,2026-03-11T10:43:19.233766
-Finland,Helsinki,Europe,Northern Europe,5650325,338455.0,EUR,Finnish,2026-03-11T10:43:19.233768
-Jersey,Saint Helier,Europe,Northern Europe,103267,116.0,GBP,English,2026-03-11T10:43:19.233770
-Faroe Islands,Tórshavn,Europe,Northern Europe,54885,1393.0,DKK,Danish,2026-03-11T10:43:19.233771
-Sweden,Stockholm,Europe,Northern Europe,10605098,450295.0,SEK,Swedish,2026-03-11T10:43:19.233773
-Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21763170,65610.0,LKR,Sinhala,2026-03-11T10:43:19.233775
-Thailand,Bangkok,Asia,South-Eastern Asia,65859640,513120.0,THB,Thai,2026-03-11T10:43:19.233777
-Greenland,Nuuk,Americas,North America,56542,2166086.0,DKK,Greenlandic,2026-03-11T10:43:19.233778
-Bulgaria,Sofia,Europe,Southeast Europe,6437360,110879.0,BGN,Bulgarian,2026-03-11T10:43:19.233780
-Kenya,Nairobi,Africa,Eastern Africa,53330978,580367.0,KES,English,2026-03-11T10:43:19.233782
-Hong Kong,City of Victoria,Asia,Eastern Asia,7527500,1104.0,HKD,English,2026-03-11T10:43:19.233783
-Romania,Bucharest,Europe,Southeast Europe,19036031,238391.0,RON,Romanian,2026-03-11T10:43:19.233785
-Malawi,Lilongwe,Africa,Eastern Africa,20734262,118484.0,MWK,English,2026-03-11T10:43:19.233791
-Republic of the Congo,Brazzaville,Africa,Middle Africa,6142180,342000.0,XAF,French,2026-03-11T10:43:19.233793
-Honduras,Tegucigalpa,Americas,Central America,9892632,112492.0,HNL,Spanish,2026-03-11T10:43:19.233794
-Aruba,Oranjestad,Americas,Caribbean,107566,180.0,AWG,Dutch,2026-03-11T10:43:19.233796
-Monaco,Monaco,Europe,Western Europe,38423,2.02,EUR,French,2026-03-11T10:43:19.233798
-Bouvet Island,N/A,Antarctic,,0,49.0,N/A,Norwegian,2026-03-11T10:43:19.233799
-Zambia,Lusaka,Africa,Eastern Africa,19693423,752612.0,ZMW,English,2026-03-11T10:43:19.233800
-Andorra,Andorra la Vella,Europe,Southern Europe,88406,468.0,EUR,Catalan,2026-03-11T10:43:19.233802
-Liberia,Monrovia,Africa,Western Africa,5248621,111369.0,LRD,English,2026-03-11T10:43:19.233803
-Tanzania,Dodoma,Africa,Eastern Africa,68153004,947303.0,TZS,English,2026-03-11T10:43:19.233804
-Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,5819,242.0,EUR,French,2026-03-11T10:43:19.233806
-Iran,Tehran,Asia,Southern Asia,85961000,1648195.0,IRR,Persian (Farsi),2026-03-11T10:43:19.233807
-Iceland,Reykjavik,Europe,Northern Europe,391810,103000.0,ISK,Icelandic,2026-03-11T10:43:19.233809
-Guinea,Conakry,Africa,Western Africa,14363931,245857.0,GNF,French,2026-03-11T10:43:19.233850
-Svalbard and Jan Mayen,Longyearbyen,Europe,Northern Europe,2530,61399.0,NOK,Norwegian,2026-03-11T10:43:19.233853
-Kuwait,Kuwait City,Asia,Western Asia,4881254,17818.0,KWD,Arabic,2026-03-11T10:43:19.233855
-Morocco,Rabat,Africa,Northern Africa,36828330,446550.0,MAD,Arabic,2026-03-11T10:43:19.233857
-Namibia,Windhoek,Africa,Southern Africa,3022401,825615.0,NAD,Afrikaans,2026-03-11T10:43:19.233858
-Tajikistan,Dushanbe,Asia,Central Asia,10499000,143100.0,TJS,Russian,2026-03-11T10:43:19.233859
-Vanuatu,Port Vila,Oceania,Melanesia,321409,12189.0,VUV,Bislama,2026-03-11T10:43:19.233861
-Jamaica,Kingston,Americas,Caribbean,2825544,10991.0,JMD,English,2026-03-11T10:43:19.233863
-Palau,Ngerulmud,Oceania,Micronesia,16733,459.0,USD,English,2026-03-11T10:43:19.233864
-Uruguay,Montevideo,Americas,South America,3499451,181034.0,UYU,Spanish,2026-03-11T10:43:19.233866
-Bhutan,Thimphu,Asia,Southern Asia,784043,38394.0,BTN,Dzongkha,2026-03-11T10:43:19.233867
-DR Congo,Kinshasa,Africa,Middle Africa,112832000,2344858.0,CDF,French,2026-03-11T10:43:19.233869
-Kazakhstan,Astana,Asia,Central Asia,20426568,2724900.0,KZT,Kazakh,2026-03-11T10:43:19.233870
-Eritrea,Asmara,Africa,Eastern Africa,3607000,117600.0,ERN,Arabic,2026-03-11T10:43:19.233873
-Gibraltar,Gibraltar,Europe,Southern Europe,38000,6.0,GIP,English,2026-03-11T10:43:19.233874
-Gabon,Libreville,Africa,Middle Africa,2469296,267668.0,XAF,French,2026-03-11T10:43:19.233876
-Peru,Lima,Americas,South America,34350244,1285216.0,PEN,Aymara,2026-03-11T10:43:19.233877
-Denmark,Copenhagen,Europe,Northern Europe,6011488,43094.0,DKK,Danish,2026-03-11T10:43:19.233878
-Croatia,Zagreb,Europe,Southeast Europe,3866233,56594.0,EUR,Croatian,2026-03-11T10:43:19.233880
-Curaçao,Willemstad,Americas,Caribbean,156115,444.0,ANG,English,2026-03-11T10:43:19.233882
-British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,0,60.0,USD,English,2026-03-11T10:43:19.233883
-Norway,Oslo,Europe,Northern Europe,5606944,386224.0,NOK,Norwegian Nynorsk,2026-03-11T10:43:19.233885
-Lesotho,Maseru,Africa,Southern Africa,2116427,30355.0,LSL,English,2026-03-11T10:43:19.233886
-Austria,Vienna,Europe,Central Europe,9200931,83871.0,EUR,German,2026-03-11T10:43:19.233888
-Switzerland,Bern,Europe,Western Europe,9082848,41284.0,CHF,French,2026-03-11T10:43:19.233889
-Belize,Belmopan,Americas,Central America,417634,22966.0,BZD,Belizean Creole,2026-03-11T10:43:19.233892
-Belgium,Brussels,Europe,Western Europe,11825551,30528.0,EUR,German,2026-03-11T10:43:19.233894
-Nicaragua,Managua,Americas,Central America,6803886,130373.0,NIO,Spanish,2026-03-11T10:43:19.233896
-United States Virgin Islands,Charlotte Amalie,Americas,Caribbean,87146,347.0,USD,English,2026-03-11T10:43:19.233898
-Singapore,Singapore,Asia,South-Eastern Asia,6110200,710.0,SGD,English,2026-03-11T10:43:19.233899
-Dominican Republic,Santo Domingo,Americas,Caribbean,10771504,48671.0,DOP,Spanish,2026-03-11T10:43:19.233901
-Kosovo,Pristina,Europe,Southeast Europe,1585566,10908.0,EUR,Albanian,2026-03-11T10:43:19.233902
-Laos,Vientiane,Asia,South-Eastern Asia,7647000,236800.0,LAK,Lao,2026-03-11T10:43:19.233903
-Chile,Santiago,Americas,South America,20206953,756102.0,CLP,Spanish,2026-03-11T10:43:19.233905
-Costa Rica,San José,Americas,Central America,5309625,51100.0,CRC,Spanish,2026-03-11T10:43:19.233907
-Rwanda,Kigali,Africa,Eastern Africa,14104969,26338.0,RWF,English,2026-03-11T10:43:19.233908
-Trinidad and Tobago,Port of Spain,Americas,Caribbean,1367764,5130.0,TTD,English,2026-03-11T10:43:19.233910
-Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,34231700,330803.0,MYR,English,2026-03-11T10:43:19.233911
-South Africa,Pretoria,Africa,Southern Africa,63100945,1221037.0,ZAR,Afrikaans,2026-03-11T10:43:19.233913
-Saudi Arabia,Riyadh,Asia,Western Asia,35300280,2149690.0,SAR,Arabic,2026-03-11T10:43:19.233917
-Haiti,Port-au-Prince,Americas,Caribbean,11867032,27750.0,HTG,French,2026-03-11T10:43:19.233919
-French Southern and Antarctic Lands,Port-aux-Français,Antarctic,,400,7747.0,EUR,French,2026-03-11T10:43:19.233921
-Tokelau,Fakaofo,Oceania,Polynesia,2608,12.0,NZD,English,2026-03-11T10:43:19.233922
-Somalia,Mogadishu,Africa,Eastern Africa,19655000,637657.0,SOS,Arabic,2026-03-11T10:43:19.233924
-Japan,Tokyo,Asia,Eastern Asia,123210000,377930.0,JPY,Japanese,2026-03-11T10:43:19.233926
-Macau,N/A,Asia,Eastern Asia,685900,30.0,MOP,Portuguese,2026-03-11T10:43:19.233927
-Sudan,Khartoum,Africa,Northern Africa,51662000,1886068.0,SDG,Arabic,2026-03-11T10:43:19.233929
-Algeria,Algiers,Africa,Northern Africa,47400000,2381741.0,DZD,Arabic,2026-03-11T10:43:19.233931
-Eswatini,Mbabane,Africa,Southern Africa,1235549,17364.0,SZL,English,2026-03-11T10:43:19.233932
-France,Paris,Europe,Western Europe,66351959,543908.0,EUR,French,2026-03-11T10:43:19.233934
-Sint Maarten,Philipsburg,Americas,Caribbean,41349,34.0,ANG,English,2026-03-11T10:43:19.233936
-Bangladesh,Dhaka,Asia,Southern Asia,169828911,147570.0,BDT,Bengali,2026-03-11T10:43:19.233938
-Central African Republic,Bangui,Africa,Middle Africa,6470307,622984.0,XAF,French,2026-03-11T10:43:19.233939
-Canada,Ottawa,Americas,North America,41651653,9984670.0,CAD,English,2026-03-11T10:43:19.233942
-Réunion,Saint-Denis,Africa,Eastern Africa,896175,2511.0,EUR,French,2026-03-11T10:43:19.233943
-Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,110872,389.0,XCD,English,2026-03-11T10:43:19.233945
-Micronesia,Palikir,Oceania,Micronesia,105564,702.0,USD,English,2026-03-11T10:43:19.233946
-Cape Verde,Praia,Africa,Western Africa,491233,4033.0,CVE,Portuguese,2026-03-11T10:43:19.233948
-Grenada,St. George's,Americas,Caribbean,109021,344.0,XCD,English,2026-03-11T10:43:19.233949
-Pakistan,Islamabad,Asia,Southern Asia,241499431,796095.0,PKR,English,2026-03-11T10:43:19.233951
-Nepal,Kathmandu,Asia,Southern Asia,29911840,147181.0,NPR,Nepali,2026-03-11T10:43:19.233952
-Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,3422000,51209.0,BAM,Bosnian,2026-03-11T10:43:19.233954
-South Sudan,Juba,Africa,Middle Africa,15786898,619745.0,SSP,English,2026-03-11T10:43:19.233957
-Guinea-Bissau,Bissau,Africa,Western Africa,1781308,36125.0,XOF,Portuguese,2026-03-11T10:43:19.233958
-Benin,Porto-Novo,Africa,Western Africa,13224860,112622.0,XOF,French,2026-03-11T10:43:19.233960
-Lebanon,Beirut,Asia,Western Asia,5490000,10452.0,LBP,Arabic,2026-03-11T10:43:19.233961
-Åland Islands,Mariehamn,Europe,Northern Europe,30654,1580.0,EUR,Swedish,2026-03-11T10:43:19.233964
+Ivory Coast,Yamoussoukro,Africa,Western Africa,31719275,322463.0,XOF,French,2026-04-08T23:46:42.892309
+Italy,Rome,Europe,Southern Europe,58927633,301336.0,EUR,Italian,2026-04-08T23:46:42.892325
+Kyrgyzstan,Bishkek,Asia,Central Asia,7281800,199951.0,KGS,Kyrgyz,2026-04-08T23:46:42.892328
+Papua New Guinea,Port Moresby,Oceania,Melanesia,11781559,462840.0,PGK,English,2026-04-08T23:46:42.892330
+Fiji,Suva,Oceania,Melanesia,900869,18272.0,FJD,English,2026-04-08T23:46:42.892331
+United Arab Emirates,Abu Dhabi,Asia,Western Asia,11294243,83600.0,AED,Arabic,2026-04-08T23:46:42.892333
+Saint Kitts and Nevis,Basseterre,Americas,Caribbean,51320,261.0,XCD,English,2026-04-08T23:46:42.892335
+French Guiana,Cayenne,Americas,South America,292354,83534.0,EUR,French,2026-04-08T23:46:42.892336
+Tanzania,Dodoma,Africa,Eastern Africa,68153004,947303.0,TZS,English,2026-04-08T23:46:42.892338
+Angola,Luanda,Africa,Middle Africa,36170961,1246700.0,AOA,Portuguese,2026-04-08T23:46:42.892346
+Togo,Lomé,Africa,Western Africa,8095498,56785.0,XOF,French,2026-04-08T23:46:42.892347
+Finland,Helsinki,Europe,Northern Europe,5650325,338455.0,EUR,Finnish,2026-04-08T23:46:42.892349
+Malawi,Lilongwe,Africa,Eastern Africa,20734262,118484.0,MWK,English,2026-04-08T23:46:42.892350
+Mali,Bamako,Africa,Western Africa,22395489,1240192.0,XOF,French,2026-04-08T23:46:42.892352
+Uzbekistan,Tashkent,Asia,Central Asia,37859698,447400.0,UZS,Russian,2026-04-08T23:46:42.892353
+Senegal,Dakar,Africa,Western Africa,18593258,196722.0,XOF,French,2026-04-08T23:46:42.892355
+Uganda,Kampala,Africa,Eastern Africa,45905417,241550.0,UGX,English,2026-04-08T23:46:42.892356
+Djibouti,Djibouti,Africa,Eastern Africa,1066809,23200.0,DJF,Arabic,2026-04-08T23:46:42.892358
+South Sudan,Juba,Africa,Middle Africa,15786898,619745.0,SSP,English,2026-04-08T23:46:42.892359
+Jersey,Saint Helier,Europe,Northern Europe,103267,116.0,GBP,English,2026-04-08T23:46:42.892361
+Tuvalu,Funafuti,Oceania,Polynesia,10643,26.0,AUD,English,2026-04-08T23:46:42.892362
+Japan,Tokyo,Asia,Eastern Asia,123210000,377930.0,JPY,Japanese,2026-04-08T23:46:42.892364
+Oman,Muscat,Asia,Western Asia,5343630,309500.0,OMR,Arabic,2026-04-08T23:46:42.892366
+Belgium,Brussels,Europe,Western Europe,11825551,30528.0,EUR,German,2026-04-08T23:46:42.892368
+Saint Martin,Marigot,Americas,Caribbean,31496,53.0,EUR,French,2026-04-08T23:46:42.892369
+Mayotte,Mamoudzou,Africa,Eastern Africa,320901,374.0,EUR,French,2026-04-08T23:46:42.892371
+France,Paris,Europe,Western Europe,66351959,543908.0,EUR,French,2026-04-08T23:46:42.892373
+Bulgaria,Sofia,Europe,Southeast Europe,6437360,110879.0,BGN,Bulgarian,2026-04-08T23:46:42.892375
+Cyprus,Nicosia,Europe,Southern Europe,1442614,9251.0,EUR,Greek,2026-04-08T23:46:42.892376
+South Korea,Seoul,Asia,Eastern Asia,51159889,100210.0,KRW,Korean,2026-04-08T23:46:42.892377
+Mexico,Mexico City,Americas,North America,130575786,1964375.0,MXN,Spanish,2026-04-08T23:46:42.892379
+North Macedonia,Skopje,Europe,Southeast Europe,1822612,25713.0,MKD,Macedonian,2026-04-08T23:46:42.892381
+Guyana,Georgetown,Americas,South America,772975,214969.0,GYD,English,2026-04-08T23:46:42.892382
+Kosovo,Pristina,Europe,Southeast Europe,1585566,10908.0,EUR,Albanian,2026-04-08T23:46:42.892384
+Morocco,Rabat,Africa,Northern Africa,36828330,446550.0,MAD,Arabic,2026-04-08T23:46:42.892385
+Gibraltar,Gibraltar,Europe,Southern Europe,38000,6.0,GIP,English,2026-04-08T23:46:42.892388
+Western Sahara,El Aaiún,Africa,Northern Africa,600904,266000.0,DZD,Berber,2026-04-08T23:46:42.892389
+Andorra,Andorra la Vella,Europe,Southern Europe,88406,468.0,EUR,Catalan,2026-04-08T23:46:42.892391
+Palau,Ngerulmud,Oceania,Micronesia,16733,459.0,USD,English,2026-04-08T23:46:42.892392
+Guinea,Conakry,Africa,Western Africa,14363931,245857.0,GNF,French,2026-04-08T23:46:42.892394
+Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,50828,948.0,USD,English,2026-04-08T23:46:42.892395
+Saudi Arabia,Riyadh,Asia,Western Asia,35300280,2149690.0,SAR,Arabic,2026-04-08T23:46:42.892397
+Botswana,Gaborone,Africa,Southern Africa,2359609,582000.0,BWP,English,2026-04-08T23:46:42.892399
+Comoros,Moroni,Africa,Eastern Africa,919901,1862.0,KMF,Arabic,2026-04-08T23:46:42.892400
+Belize,Belmopan,Americas,Central America,417634,22966.0,BZD,Belizean Creole,2026-04-08T23:46:42.892401
+Cambodia,Phnom Penh,Asia,South-Eastern Asia,17577760,181035.0,KHR,Khmer,2026-04-08T23:46:42.892403
+Saint Lucia,Castries,Americas,Caribbean,184100,616.0,XCD,English,2026-04-08T23:46:42.892404
+Mauritania,Nouakchott,Africa,Western Africa,4927532,1030700.0,MRU,Arabic,2026-04-08T23:46:42.892406
+Jamaica,Kingston,Americas,Caribbean,2825544,10991.0,JMD,English,2026-04-08T23:46:42.892408
+Cape Verde,Praia,Africa,Western Africa,491233,4033.0,CVE,Portuguese,2026-04-08T23:46:42.892412
+Marshall Islands,Majuro,Oceania,Micronesia,42418,181.0,USD,English,2026-04-08T23:46:42.892413
+Namibia,Windhoek,Africa,Southern Africa,3022401,825615.0,NAD,Afrikaans,2026-04-08T23:46:42.892415
+Iran,Tehran,Asia,Southern Asia,85961000,1648195.0,IRR,Persian (Farsi),2026-04-08T23:46:42.892416
+Wallis and Futuna,Mata-Utu,Oceania,Polynesia,11620,142.0,XPF,French,2026-04-08T23:46:42.892418
+Azerbaijan,Baku,Asia,Western Asia,10241722,86600.0,AZN,Azerbaijani,2026-04-08T23:46:42.892420
+Niger,Niamey,Africa,Western Africa,26312034,1267000.0,XOF,French,2026-04-08T23:46:42.892421
+Heard Island and McDonald Islands,N/A,Antarctic,,0,412.0,N/A,English,2026-04-08T23:46:42.892423
+Laos,Vientiane,Asia,South-Eastern Asia,7647000,236800.0,LAK,Lao,2026-04-08T23:46:42.892425
+Burkina Faso,Ouagadougou,Africa,Western Africa,24070553,272967.0,XOF,French,2026-04-08T23:46:42.892426
+Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,593,14.0,AUD,English,2026-04-08T23:46:42.892427
+Luxembourg,Luxembourg,Europe,Western Europe,681973,2586.0,EUR,German,2026-04-08T23:46:42.892429
+Indonesia,Jakarta,Asia,South-Eastern Asia,284438782,1904569.0,IDR,Indonesian,2026-04-08T23:46:42.892430
+Lebanon,Beirut,Asia,Western Asia,5490000,10452.0,LBP,Arabic,2026-04-08T23:46:42.892433
+Turkey,Ankara,Asia,Western Asia,85664944,783562.0,TRY,Turkish,2026-04-08T23:46:42.892448
+Timor-Leste,Dili,Asia,South-Eastern Asia,1391221,14874.0,USD,Portuguese,2026-04-08T23:46:42.892451
+Zimbabwe,Harare,Africa,Southern Africa,17073087,390757.0,ZWL,Chibarwe,2026-04-08T23:46:42.892453
+South Africa,Pretoria,Africa,Southern Africa,63100945,1221037.0,ZAR,Afrikaans,2026-04-08T23:46:42.892455
+Armenia,Yerevan,Asia,Western Asia,3076200,29743.0,AMD,Armenian,2026-04-08T23:46:42.892457
+Ireland,Dublin,Europe,Northern Europe,5458600,70273.0,EUR,English,2026-04-08T23:46:42.892458
+Norway,Oslo,Europe,Northern Europe,5606944,386224.0,NOK,Norwegian Nynorsk,2026-04-08T23:46:42.892460
+Kenya,Nairobi,Africa,Eastern Africa,53330978,580367.0,KES,English,2026-04-08T23:46:42.892462
+North Korea,Pyongyang,Asia,Eastern Asia,25950000,120538.0,KPW,Korean,2026-04-08T23:46:42.892464
+Afghanistan,Kabul,Asia,Southern Asia,43844000,652230.0,AFN,Dari,2026-04-08T23:46:42.892465
+Bermuda,Hamilton,Americas,North America,64055,54.0,BMD,English,2026-04-08T23:46:42.892467
+Spain,Madrid,Europe,Southern Europe,49315949,505992.0,EUR,Spanish,2026-04-08T23:46:42.892468
+Netherlands,Amsterdam,Europe,Western Europe,18100436,41865.0,EUR,Dutch,2026-04-08T23:46:42.892471
+Nicaragua,Managua,Americas,Central America,6803886,130373.0,NIO,Spanish,2026-04-08T23:46:42.892472
+Lesotho,Maseru,Africa,Southern Africa,2116427,30355.0,LSL,English,2026-04-08T23:46:42.892474
+Egypt,Cairo,Africa,Northern Africa,107271260,1002450.0,EGP,Arabic,2026-04-08T23:46:42.892475
+Gambia,Banjul,Africa,Western Africa,2422712,10689.0,GMD,English,2026-04-08T23:46:42.892477
+Brazil,Brasília,Americas,South America,213421037,8515767.0,BRL,Portuguese,2026-04-08T23:46:42.892479
+Australia,Canberra,Oceania,Australia and New Zealand,27536874,7692024.0,AUD,English,2026-04-08T23:46:42.892480
+Bouvet Island,N/A,Antarctic,,0,49.0,N/A,Norwegian,2026-04-08T23:46:42.892482
+Pitcairn Islands,Adamstown,Oceania,Polynesia,35,47.0,NZD,English,2026-04-08T23:46:42.892483
+Barbados,Bridgetown,Americas,Caribbean,267800,430.0,BBD,English,2026-04-08T23:46:42.892485
+Madagascar,Antananarivo,Africa,Eastern Africa,31727042,587041.0,MGA,French,2026-04-08T23:46:42.892487
+United Kingdom,London,Europe,Northern Europe,69281437,244376.0,GBP,English,2026-04-08T23:46:42.892488
+Portugal,Lisbon,Europe,Southern Europe,10749635,92090.0,EUR,Portuguese,2026-04-08T23:46:42.892490
+Greenland,Nuuk,Americas,North America,56542,2166086.0,DKK,Greenlandic,2026-04-08T23:46:42.892492
+American Samoa,Pago Pago,Oceania,Polynesia,49710,199.0,USD,English,2026-04-08T23:46:42.892494
+South Georgia,King Edward Point,Antarctic,,0,3903.0,GBP,English,2026-04-08T23:46:42.892496
+Turkmenistan,Ashgabat,Asia,Central Asia,7057841,488100.0,TMT,Russian,2026-04-08T23:46:42.892498
+Guadeloupe,Basse-Terre,Americas,Caribbean,378561,1628.0,EUR,French,2026-04-08T23:46:42.892500
+Dominica,Roseau,Americas,Caribbean,67408,751.0,XCD,English,2026-04-08T23:46:42.892520
+Solomon Islands,Honiara,Oceania,Melanesia,750325,28896.0,SBD,English,2026-04-08T23:46:42.892521
+Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,5819,242.0,EUR,French,2026-04-08T23:46:42.892523
+Rwanda,Kigali,Africa,Eastern Africa,14104969,26338.0,RWF,English,2026-04-08T23:46:42.892525
+Norfolk Island,Kingston,Oceania,Australia and New Zealand,2188,36.0,AUD,English,2026-04-08T23:46:42.892526
+Panama,Panama City,Americas,Central America,4064780,75417.0,PAB,Spanish,2026-04-08T23:46:42.892529
+Bahamas,Nassau,Americas,Caribbean,398165,13943.0,BSD,English,2026-04-08T23:46:42.892531
+Tokelau,Fakaofo,Oceania,Polynesia,2608,12.0,NZD,English,2026-04-08T23:46:42.892532
+Montenegro,Podgorica,Europe,Southeast Europe,623327,13812.0,EUR,Montenegrin,2026-04-08T23:46:42.892534
+Åland Islands,Mariehamn,Europe,Northern Europe,30654,1580.0,EUR,Swedish,2026-04-08T23:46:42.892536
+Niue,Alofi,Oceania,Polynesia,1681,260.0,NZD,English,2026-04-08T23:46:42.892538
+Argentina,Buenos Aires,Americas,South America,46735004,2780400.0,ARS,Guaraní,2026-04-08T23:46:42.892539
+Cuba,Havana,Americas,Caribbean,9748007,109884.0,CUC,Spanish,2026-04-08T23:46:42.892541
+Cayman Islands,George Town,Americas,Caribbean,84738,264.0,KYD,English,2026-04-08T23:46:42.892542
+Kazakhstan,Astana,Asia,Central Asia,20426568,2724900.0,KZT,Kazakh,2026-04-08T23:46:42.892544
+Russia,Moscow,Europe,Eastern Europe,146028325,17098246.0,RUB,Russian,2026-04-08T23:46:42.892546
+India,New Delhi,Asia,Southern Asia,1417492000,3287263.0,INR,English,2026-04-08T23:46:42.892877
+British Virgin Islands,Road Town,Americas,Caribbean,39471,151.0,USD,English,2026-04-08T23:46:42.892888
+Guam,Hagåtña,Oceania,Micronesia,153836,549.0,USD,Chamorro,2026-04-08T23:46:42.892891
+Myanmar,Naypyidaw,Asia,South-Eastern Asia,51316756,676578.0,MMK,Burmese,2026-04-08T23:46:42.892892
+DR Congo,Kinshasa,Africa,Middle Africa,112832000,2344858.0,CDF,French,2026-04-08T23:46:42.892894
+Mauritius,Port Louis,Africa,Eastern Africa,1243741,2040.0,MUR,English,2026-04-08T23:46:42.892896
+Falkland Islands,Stanley,Americas,South America,3662,12173.0,FKP,English,2026-04-08T23:46:42.892901
+Northern Mariana Islands,Saipan,Oceania,Micronesia,47329,464.0,USD,Carolinian,2026-04-08T23:46:42.892903
+Ukraine,Kyiv,Europe,Eastern Europe,32862000,603550.0,UAH,Ukrainian,2026-04-08T23:46:42.892904
+Monaco,Monaco,Europe,Western Europe,38423,2.02,EUR,French,2026-04-08T23:46:42.892906
+Tajikistan,Dushanbe,Asia,Central Asia,10499000,143100.0,TJS,Russian,2026-04-08T23:46:42.892907
+Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,34231700,330803.0,MYR,English,2026-04-08T23:46:42.892909
+Somalia,Mogadishu,Africa,Eastern Africa,19655000,637657.0,SOS,Arabic,2026-04-08T23:46:42.892911
+Antigua and Barbuda,Saint John's,Americas,Caribbean,103603,442.0,XCD,English,2026-04-08T23:46:42.892912
+Central African Republic,Bangui,Africa,Middle Africa,6470307,622984.0,XAF,French,2026-04-08T23:46:42.892914
+Macau,N/A,Asia,Eastern Asia,685900,30.0,MOP,Portuguese,2026-04-08T23:46:42.892916
+Israel,Jerusalem,Asia,Western Asia,10134800,21937.0,ILS,Arabic,2026-04-08T23:46:42.892918
+Nigeria,Abuja,Africa,Western Africa,223800000,923768.0,NGN,English,2026-04-08T23:46:42.892919
+Honduras,Tegucigalpa,Americas,Central America,9892632,112492.0,HNL,Spanish,2026-04-08T23:46:42.892921
+Sierra Leone,Freetown,Africa,Western Africa,9077691,71740.0,SLE,English,2026-04-08T23:46:42.892970
+Tunisia,Tunis,Africa,Northern Africa,11972169,163610.0,TND,Arabic,2026-04-08T23:46:42.892973
+Lithuania,Vilnius,Europe,Northern Europe,2894886,65300.0,EUR,Lithuanian,2026-04-08T23:46:42.892975
+Iraq,Baghdad,Asia,Western Asia,46118793,438317.0,IQD,Arabic,2026-04-08T23:46:42.892977
+Switzerland,Bern,Europe,Western Europe,9082848,41284.0,CHF,French,2026-04-08T23:46:42.892979
+Chile,Santiago,Americas,South America,20206953,756102.0,CLP,Spanish,2026-04-08T23:46:42.892981
+Taiwan,Taipei,Asia,Eastern Asia,23317031,36197.0,TWD,Chinese,2026-04-08T23:46:42.892982
+Vietnam,Hanoi,Asia,South-Eastern Asia,101343800,331212.0,VND,Vietnamese,2026-04-08T23:46:42.892984
+Bangladesh,Dhaka,Asia,Southern Asia,169828911,147570.0,BDT,Bengali,2026-04-08T23:46:42.892986
+Vanuatu,Port Vila,Oceania,Melanesia,321409,12189.0,VUV,Bislama,2026-04-08T23:46:42.892987
+Pakistan,Islamabad,Asia,Southern Asia,241499431,796095.0,PKR,English,2026-04-08T23:46:42.892989
+Latvia,Riga,Europe,Northern Europe,1829000,64559.0,EUR,Latvian,2026-04-08T23:46:42.892990
+Malta,Valletta,Europe,Southern Europe,574250,316.0,EUR,English,2026-04-08T23:46:42.892992
+Seychelles,Victoria,Africa,Eastern Africa,122729,452.0,SCR,Seychellois Creole,2026-04-08T23:46:42.892995
+Montserrat,Plymouth,Americas,Caribbean,4386,102.0,XCD,English,2026-04-08T23:46:42.892997
+Anguilla,The Valley,Americas,Caribbean,16010,91.0,XCD,English,2026-04-08T23:46:42.892998
+Greece,Athens,Europe,Southern Europe,10400720,131990.0,EUR,Greek,2026-04-08T23:46:42.893000
+Czechia,Prague,Europe,Central Europe,10882341,78865.0,CZK,Czech,2026-04-08T23:46:42.893001
+Zambia,Lusaka,Africa,Eastern Africa,19693423,752612.0,ZMW,English,2026-04-08T23:46:42.893003
+Hong Kong,City of Victoria,Asia,Eastern Asia,7527500,1104.0,HKD,English,2026-04-08T23:46:42.893004
+United States,"Washington, D.C.",Americas,North America,340110988,9525067.0,USD,English,2026-04-08T23:46:42.893006
+Eswatini,Mbabane,Africa,Southern Africa,1235549,17364.0,SZL,English,2026-04-08T23:46:42.893009
+Slovenia,Ljubljana,Europe,Central Europe,2130638,20273.0,EUR,Slovene,2026-04-08T23:46:42.893011
+Caribbean Netherlands,Kralendijk,Americas,Caribbean,31980,328.0,USD,English,2026-04-08T23:46:42.893013
+Maldives,Malé,Asia,Southern Asia,515132,300.0,MVR,Maldivian,2026-04-08T23:46:42.893014
+Ghana,Accra,Africa,Western Africa,33742380,238533.0,GHS,English,2026-04-08T23:46:42.893016
+Paraguay,Asunción,Americas,South America,6109644,406752.0,PYG,Guaraní,2026-04-08T23:46:42.893018
+Mozambique,Maputo,Africa,Eastern Africa,34090466,801590.0,MZN,Portuguese,2026-04-08T23:46:42.893021
+Palestine,Ramallah,Asia,Western Asia,5483450,6220.0,EGP,Arabic,2026-04-08T23:46:42.893023
+Moldova,Chișinău,Europe,Eastern Europe,2749076,33847.0,MDL,Romanian,2026-04-08T23:46:42.893024
+Liberia,Monrovia,Africa,Western Africa,5248621,111369.0,LRD,English,2026-04-08T23:46:42.893026
+Liechtenstein,Vaduz,Europe,Western Europe,40900,160.0,CHF,German,2026-04-08T23:46:42.893027
+Peru,Lima,Americas,South America,34350244,1285216.0,PEN,Aymara,2026-04-08T23:46:42.893029
+Qatar,Doha,Asia,Western Asia,3173024,11586.0,QAR,Arabic,2026-04-08T23:46:42.893030
+Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,1692,135.0,AUD,English,2026-04-08T23:46:42.893032
+Georgia,Tbilisi,Asia,Western Asia,4000921,69700.0,GEL,Georgian,2026-04-08T23:46:42.893034
+Ecuador,Quito,Americas,South America,18103660,276841.0,USD,Spanish,2026-04-08T23:46:42.893035
+Philippines,Manila,Asia,South-Eastern Asia,114123600,342353.0,PHP,English,2026-04-08T23:46:42.893037
+Ethiopia,Addis Ababa,Africa,Eastern Africa,111652998,1104300.0,ETB,Amharic,2026-04-08T23:46:42.893039
+United States Virgin Islands,Charlotte Amalie,Americas,Caribbean,87146,347.0,USD,English,2026-04-08T23:46:42.893041
+Syria,Damascus,Asia,Western Asia,25620000,185180.0,SYP,Arabic,2026-04-08T23:46:42.893043
+Romania,Bucharest,Europe,Southeast Europe,19036031,238391.0,RON,Romanian,2026-04-08T23:46:42.893044
+Guatemala,Guatemala City,Americas,Central America,18079810,108889.0,GTQ,Spanish,2026-04-08T23:46:42.893047
+Nepal,Kathmandu,Asia,Southern Asia,29911840,147181.0,NPR,Nepali,2026-04-08T23:46:42.893048
+Réunion,Saint-Denis,Africa,Eastern Africa,896175,2511.0,EUR,French,2026-04-08T23:46:42.893050
+Benin,Porto-Novo,Africa,Western Africa,13224860,112622.0,XOF,French,2026-04-08T23:46:42.893052
+Kuwait,Kuwait City,Asia,Western Asia,4881254,17818.0,KWD,Arabic,2026-04-08T23:46:42.893053
+Suriname,Paramaribo,Americas,South America,616500,163820.0,SRD,Dutch,2026-04-08T23:46:42.893055
+New Caledonia,Nouméa,Oceania,Melanesia,264596,18575.0,XPF,French,2026-04-08T23:46:42.893056
+Sudan,Khartoum,Africa,Northern Africa,51662000,1886068.0,SDG,Arabic,2026-04-08T23:46:42.893058
+United States Minor Outlying Islands,Washington DC,Americas,North America,0,34.2,USD,English,2026-04-08T23:46:42.893059
+Chad,N'Djamena,Africa,Middle Africa,19340757,1284000.0,XAF,Arabic,2026-04-08T23:46:42.893061
+Uruguay,Montevideo,Americas,South America,3499451,181034.0,UYU,Spanish,2026-04-08T23:46:42.893062
+Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,3422000,51209.0,BAM,Bosnian,2026-04-08T23:46:42.893065
+Trinidad and Tobago,Port of Spain,Americas,Caribbean,1367764,5130.0,TTD,English,2026-04-08T23:46:42.893066
+Sweden,Stockholm,Europe,Northern Europe,10605098,450295.0,SEK,Swedish,2026-04-08T23:46:42.893067
+Iceland,Reykjavik,Europe,Northern Europe,391810,103000.0,ISK,Icelandic,2026-04-08T23:46:42.893069
+Haiti,Port-au-Prince,Americas,Caribbean,11867032,27750.0,HTG,French,2026-04-08T23:46:42.893071
+Brunei,Bandar Seri Begawan,Asia,South-Eastern Asia,455500,5765.0,BND,Malay,2026-04-08T23:46:42.893073
+French Southern and Antarctic Lands,Port-aux-Français,Antarctic,,400,7747.0,EUR,French,2026-04-08T23:46:42.893074
+Guernsey,St. Peter Port,Europe,Northern Europe,64781,78.0,GBP,English,2026-04-08T23:46:42.893076
+Croatia,Zagreb,Europe,Southeast Europe,3866233,56594.0,EUR,Croatian,2026-04-08T23:46:42.893078
+Saint Barthélemy,Gustavia,Americas,Caribbean,10562,21.0,EUR,French,2026-04-08T23:46:42.893079
+Mongolia,Ulan Bator,Asia,Eastern Asia,3544835,1564110.0,MNT,Mongolian,2026-04-08T23:46:42.893080
+Aruba,Oranjestad,Americas,Caribbean,107566,180.0,AWG,Dutch,2026-04-08T23:46:42.893082
+Republic of the Congo,Brazzaville,Africa,Middle Africa,6142180,342000.0,XAF,French,2026-04-08T23:46:42.893083
+São Tomé and Príncipe,São Tomé,Africa,Middle Africa,209607,964.0,STN,Portuguese,2026-04-08T23:46:42.893086
+Yemen,Sana'a,Asia,Western Asia,32684503,527968.0,YER,Arabic,2026-04-08T23:46:42.893088
+Equatorial Guinea,Ciudad de la Paz,Africa,Middle Africa,1668768,28051.0,XAF,French,2026-04-08T23:46:42.893090
+Svalbard and Jan Mayen,Longyearbyen,Europe,Northern Europe,2530,61399.0,NOK,Norwegian,2026-04-08T23:46:42.893091
+Colombia,Bogotá,Americas,South America,53057212,1141748.0,COP,Spanish,2026-04-08T23:46:42.893093
+Guinea-Bissau,Bissau,Africa,Western Africa,1781308,36125.0,XOF,Portuguese,2026-04-08T23:46:42.893094
+Kiribati,South Tarawa,Oceania,Micronesia,120740,811.0,AUD,English,2026-04-08T23:46:42.893096
+Germany,Berlin,Europe,Western Europe,83491249,357114.0,EUR,German,2026-04-08T23:46:42.893099
+Thailand,Bangkok,Asia,South-Eastern Asia,65859640,513120.0,THB,Thai,2026-04-08T23:46:42.893101
+Isle of Man,Douglas,Europe,Northern Europe,84530,572.0,GBP,English,2026-04-08T23:46:42.893102
+Bhutan,Thimphu,Asia,Southern Asia,784043,38394.0,BTN,Dzongkha,2026-04-08T23:46:42.893104
+Gabon,Libreville,Africa,Middle Africa,2469296,267668.0,XAF,French,2026-04-08T23:46:42.893105
+Sint Maarten,Philipsburg,Americas,Caribbean,41349,34.0,ANG,English,2026-04-08T23:46:42.893107
+Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21763170,65610.0,LKR,Sinhala,2026-04-08T23:46:42.893108
+Albania,Tirana,Europe,Southeast Europe,2363314,28748.0,ALL,Albanian,2026-04-08T23:46:42.893111
+New Zealand,Wellington,Oceania,Australia and New Zealand,5324700,268838.0,NZD,English,2026-04-08T23:46:42.893112
+Algeria,Algiers,Africa,Northern Africa,47400000,2381741.0,DZD,Arabic,2026-04-08T23:46:42.893114
+San Marino,City of San Marino,Europe,Southern Europe,34132,61.0,EUR,Italian,2026-04-08T23:46:42.893115
+Micronesia,Palikir,Oceania,Micronesia,105564,702.0,USD,English,2026-04-08T23:46:42.893117
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,5651,394.0,GBP,English,2026-04-08T23:46:42.893118
+Curaçao,Willemstad,Americas,Caribbean,156115,444.0,ANG,English,2026-04-08T23:46:42.893120
+El Salvador,San Salvador,Americas,Central America,6029976,21041.0,USD,Spanish,2026-04-08T23:46:42.893121
+Martinique,Fort-de-France,Americas,Caribbean,349925,1128.0,EUR,French,2026-04-08T23:46:42.893123
+Nauru,Yaren,Oceania,Micronesia,11680,21.0,AUD,English,2026-04-08T23:46:42.893125
+Vatican City,Vatican City,Europe,Southern Europe,882,0.49,EUR,Italian,2026-04-08T23:46:42.893127
+Grenada,St. George's,Americas,Caribbean,109021,344.0,XCD,English,2026-04-08T23:46:42.893128
+Tonga,Nuku'alofa,Oceania,Polynesia,100179,747.0,TOP,English,2026-04-08T23:46:42.893130
+Burundi,Gitega,Africa,Eastern Africa,12332788,27834.0,BIF,French,2026-04-08T23:46:42.893133
+Samoa,Apia,Oceania,Polynesia,205557,2842.0,WST,English,2026-04-08T23:46:42.893134
+Denmark,Copenhagen,Europe,Northern Europe,6011488,43094.0,DKK,Danish,2026-04-08T23:46:42.893136
+Venezuela,Caracas,Americas,South America,28517000,916445.0,VES,Spanish,2026-04-08T23:46:42.893138
+Austria,Vienna,Europe,Central Europe,9200931,83871.0,EUR,German,2026-04-08T23:46:42.893139
+Slovakia,Bratislava,Europe,Central Europe,5413813,49037.0,EUR,Slovak,2026-04-08T23:46:42.893141
+China,Beijing,Asia,Eastern Asia,1408280000,9706961.0,CNY,Chinese,2026-04-08T23:46:42.893142
+British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,0,60.0,USD,English,2026-04-08T23:46:42.893144
+French Polynesia,Papeetē,Oceania,Polynesia,279500,4167.0,XPF,French,2026-04-08T23:46:42.893145
+Bolivia,Sucre,Americas,South America,11365333,1098581.0,BOB,Aymara,2026-04-08T23:46:42.893147
+Antarctica,N/A,Antarctic,,1300,14000000.0,N/A,N/A,2026-04-08T23:46:42.893148
+Libya,Tripoli,Africa,Northern Africa,7459000,1759540.0,LYD,Arabic,2026-04-08T23:46:42.893150
+Estonia,Tallinn,Europe,Northern Europe,1369995,45227.0,EUR,Estonian,2026-04-08T23:46:42.893151
+Cook Islands,Avarua,Oceania,Polynesia,15040,236.0,CKD,English,2026-04-08T23:46:42.893154
+Puerto Rico,San Juan,Americas,Caribbean,3203295,8870.0,USD,English,2026-04-08T23:46:42.893155
+Belarus,Minsk,Europe,Eastern Europe,9109280,207600.0,BYN,Belarusian,2026-04-08T23:46:42.893157
+Faroe Islands,Tórshavn,Europe,Northern Europe,54885,1393.0,DKK,Danish,2026-04-08T23:46:42.893158
+Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,110872,389.0,XCD,English,2026-04-08T23:46:42.893160
+Dominican Republic,Santo Domingo,Americas,Caribbean,10771504,48671.0,DOP,Spanish,2026-04-08T23:46:42.893161
+Hungary,Budapest,Europe,Central Europe,9539502,93028.0,HUF,Hungarian,2026-04-08T23:46:42.893163
+Bahrain,Manama,Asia,Western Asia,1594654,765.0,BHD,Arabic,2026-04-08T23:46:42.893164
+Cameroon,Yaoundé,Africa,Middle Africa,29442327,475442.0,XAF,English,2026-04-08T23:46:42.893165
+Canada,Ottawa,Americas,North America,41651653,9984670.0,CAD,English,2026-04-08T23:46:42.893167
+Eritrea,Asmara,Africa,Eastern Africa,3607000,117600.0,ERN,Arabic,2026-04-08T23:46:42.893168
+Singapore,Singapore,Asia,South-Eastern Asia,6110200,710.0,SGD,English,2026-04-08T23:46:42.893170
+Costa Rica,San José,Americas,Central America,5309625,51100.0,CRC,Spanish,2026-04-08T23:46:42.893172
+Serbia,Belgrade,Europe,Southeast Europe,6567783,77589.0,RSD,Serbian,2026-04-08T23:46:42.893174
+Poland,Warsaw,Europe,Central Europe,37392000,312679.0,PLN,Polish,2026-04-08T23:46:42.893175
+Jordan,Amman,Asia,Western Asia,11734000,89342.0,JOD,Arabic,2026-04-08T23:46:42.893177
