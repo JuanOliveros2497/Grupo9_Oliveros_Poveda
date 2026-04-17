@@ -1,0 +1,8 @@
+2026-04-14 16:56:47,769 - INFO - ✅ Datos extraídos correctamente: 250 países
+2026-04-14 16:56:47,772 - ERROR - ❌ Error procesando país: list index out of range
+2026-04-14 16:56:47,773 - ERROR - ❌ Error procesando país: list index out of range
+2026-04-14 16:56:47,773 - ERROR - ❌ Error procesando país: list index out of range
+2026-04-14 16:56:47,774 - ERROR - ❌ Error procesando país: list index out of range
+2026-04-14 16:56:47,774 - INFO - ✅ Total registros procesados: 246
+2026-04-14 16:56:47,820 - INFO - 📁 Datos guardados en data/countries_raw.json
+2026-04-14 16:56:47,833 - INFO - 📁 Datos guardados en data/countries.csv
